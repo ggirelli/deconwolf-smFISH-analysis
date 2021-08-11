@@ -3,8 +3,8 @@
 ## Details
 
 - Voxel size (ZYX)
-    + 60x: .x108.3x108.3 nm
-    + 20x: .x325x325 nm
+    + 60x: 300x108.3x108.3 nm
+    + 20x: 300x325x325 nm
 - Fluorophore emission lambda: 665 nm
 
 ## Datasets
