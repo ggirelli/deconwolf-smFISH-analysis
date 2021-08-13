@@ -1,5 +1,7 @@
 # deconwolf-smFISH-analysis
 
+Tissue smFISH at different magnifications, either processed with `deconwolf` or not.
+
 ## Details
 
 - Voxel size (ZYX)
