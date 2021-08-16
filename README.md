@@ -25,6 +25,8 @@ Similarly, undilated masks were also initially provided for both magnifications.
 3) DOTTER analysis and dots export
     - Using `DoG` approach, `center_of_mass` refinement.
     - Extract `all dots`, 1 M dots, calculating SNR, nSNR, and FWHM.
+    - Corrected SNR (i.e., `SNR2` column) added by EW.
+    - Re-scale dots intensity (i.e., `Value` column) based on deconwolf `scaling` factor.
 4) Dots intensity threshold selection
     - Generating overlays of selected dots
 5) Shift correction between datasets
