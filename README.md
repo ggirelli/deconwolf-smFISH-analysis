@@ -27,8 +27,8 @@ Similarly, undilated masks were also initially provided for both magnifications.
     - Extract `all dots`, 1 M dots, calculating SNR, nSNR, and FWHM.
     - Corrected SNR (i.e., `SNR2` column) added by EW.
     - Re-scale dots intensity (i.e., `Value` column) based on deconwolf `scaling` factor.
+    - Shift correction between datasets
 4) Dots intensity threshold selection
     - Generating overlays of selected dots
-5) Shift correction between datasets
     - Check overlap and percentage of selected dots
 6) Dots-per-nucleus distribution
