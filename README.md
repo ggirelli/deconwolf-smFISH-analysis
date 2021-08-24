@@ -34,4 +34,3 @@ Similarly, undilated masks were also initially provided for both magnifications.
 5) Comparing different magnifications
     - Shift correction between datasets
     - Check overlap and percentage of selected dots
-6) Dots-per-nucleus distribution
