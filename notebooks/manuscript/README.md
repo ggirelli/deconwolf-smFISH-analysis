@@ -26,7 +26,7 @@ Most importantly, the use of such a low magnification objective does not seem to
 
 ## Figure
 
-- **Figure 3**: a-d on the same row: FISH image.
+- **Figure 3**: a-d on the same row: FISH images.
     + [x] Panel a: inset of 60x raw with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
     + [x] Panel b: inset of 60x DW with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
     + [x] Panel c: inset of 20x raw with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
@@ -36,7 +36,7 @@ Most importantly, the use of such a low magnification objective does not seem to
     + [x] Panel g: barplot with dot overlap between 60x raw and DW.
     + [x] Panel h: barplot with dot overlap between 20x and 60x-based reference.
 
-- **Supplementary X1**: a-d on the same row: SNR vs DoG-filtered intensity.
+- **Supplementary X1**.
     + [x] Panel a: scatterplot of DoG-filtered intensity (Y) vs SNR (X), for 60x raw field #1.
     + [x] Panel b: logged density distribution for threshold identification, in 60x raw field #1.
     + [x] Panel c: FWHM distribution of dots un/filtered by field-based threshold for 60x DW and raw, field #1.
