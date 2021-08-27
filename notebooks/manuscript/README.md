@@ -8,7 +8,7 @@ Given that the staining was performed on a tissue section, it was not possible t
 
 When we plotted the signal to noise ratio against the DoG-filtered intensity of each dot from the 60x, we could observed two clear clouds of points, corresponding to true dots, with relatively high SNR and intensity, and *noisy* dots, with low intensity and low to intermediate SNR (**Figure 3e, Supplementary Fig. X1a**). At 60x, we found that the two clouds were sufficiently separated to allow us to manually identify a threshold value for the DoG-filtered intensity (**Figure 3f, Supplementary Fig. X1b**)
 
-Indeed, when plotting the FWHM distribution of the dots belonging to the two clouds we could see that XXX (**Supplementary Fig. X1c**).
+Indeed, when plotting the FWHM distribution of the dots belonging to the two clouds we could see that the distributions were always significantly different (p-value < 10e-12, Wilcoxon test, **Supplementary Fig. X1c,h**).
 
 While, at 60x magnification, we could observe these two clouds of dots in both DW and raw images, at 20x magnification they were apparent only in DW images (**Supplementary Fig. X1d-e**).
 
@@ -22,15 +22,15 @@ We then intersected the true dots identified in the DW 20x images with the refer
 
 These results proves that not only DW makes it possible to detect highly contrasted RNA FISH dots in images acquired using a low magnification air objective, but that even an unbiased detection of such dots is possible from such images.
 
-Most importantly, the use of such a low magnification objective does not seem to greatly impact dot sensitivity, given that we detected XX% of 60x the dots also 20x (**Figure 3h**).
+Most importantly, the use of such a low magnification objective does not seem to greatly impact dot sensitivity, given that we detected 77.23% of 60x dots also in 20x DW images (**Figure 3h**).
 
 ## Figure
 
 - **Figure 3**: a-d on the same row: FISH image.
-    + [ ] Panel a: inset of 60x raw with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
-    + [ ] Panel b: inset of 60x DW with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
-    + [ ] Panel c: inset of 20x raw with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
-    + [ ] Panel d: inset of 20x DW with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
+    + [x] Panel a: inset of 60x raw with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
+    + [x] Panel b: inset of 60x DW with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
+    + [x] Panel c: inset of 20x raw with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
+    + [x] Panel d: inset of 20x DW with DAPI in blue, FISH dots in magenta, nuclear contour in yellow.
     + [x] Panel e: scatterplot of DoG-filtered intensity (Y) vs SNR (X), for 60x DW field #1.
     + [x] Panel f: logged density distribution for threshold identification, in 60x DW field #1.
     + [x] Panel g: barplot with dot overlap between 60x raw and DW.
