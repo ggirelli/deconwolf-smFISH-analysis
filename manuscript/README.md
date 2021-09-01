@@ -19,8 +19,8 @@ Draft text: [here](https://docs.google.com/document/d/1ynNk3r_2EZ8Ckp6chrSjGuqsa
 - **Supplementary X1**.
     + [x] Panel a: scatterplot of Value (Y) and SNR (X) for 60x.dw, fields 2-7. Density of Value on the side of Y panel.
     + [x] Panel b: scatterplot of Value (Y) and SNR (X) for 60x.raw, fields 2-7. Density of Value on the side of Y panel.
-    + [x] Panel c: scatterplot of Value (Y) and SNR (X) for 20x.dw, fields 2-7. Density of Value on the side of Y panel.
-    + [x] Panel d: scatterplot of Value (Y) and SNR (X) for 20x.raw, fields 2-7. Density of Value on the side of Y panel.
+    + [x] Panel c: scatterplot of Value (Y) and SNR (X) for 20x.raw, fields 2-7. Density of Value on the side of Y panel.
+    + [x] Panel d: scatterplot of Value (Y) and SNR (X) for 20x.dw, fields 2-7. Density of Value on the side of Y panel.
 
 ![Suppl.Fig.X2](figures/supp_fig_x2.jpg)
 
