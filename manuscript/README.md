@@ -8,9 +8,9 @@ Draft text: [here](https://docs.google.com/document/d/1ynNk3r_2EZ8Ckp6chrSjGuqsa
 
 - **Figure 3**.
     + [x] Panel e: scatterplot of Value (Y) and SNR (X) for 60x.dw, field 1. Density of Value on the side of Y panel.
-    + [x] Panel f: scatterplot of Value (Y) and SNR (X) for 60x.dw, field 1. Density of Value on the side of Y panel.
-    + [x] Panel g: scatterplot of Value (Y) and SNR (X) for 60x.dw, field 1. Density of Value on the side of Y panel.
-    + [x] Panel h: scatterplot of Value (Y) and SNR (X) for 60x.dw, field 1. Density of Value on the side of Y panel.
+    + [x] Panel f: scatterplot of Value (Y) and SNR (X) for 60x.raw, field 1. Density of Value on the side of Y panel.
+    + [x] Panel g: scatterplot of Value (Y) and SNR (X) for 20x.raw, field 1. Density of Value on the side of Y panel.
+    + [x] Panel h: scatterplot of Value (Y) and SNR (X) for 20x.dw, field 1. Density of Value on the side of Y panel.
     + [x] Panel i: column-plot with dot overlap between 20x.raw and 60x-based reference, by field.
     + [x] Panel j: column-plot with dot overlap between 20x.dw and 60x-based reference, by field.
 
