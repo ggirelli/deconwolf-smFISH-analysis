@@ -27,9 +27,9 @@ Draft text: [here](https://docs.google.com/document/d/1ynNk3r_2EZ8Ckp6chrSjGuqsa
 
 ![Suppl.Fig.X2](figures/supp_fig_x2.jpg)
 
-- [x] Panel a: column-plot with unmatched dot between 20x.raw/dw and 60x-based reference, by field.
-- [x] Panel b: FWHM distribution of dots un/filtered by field-based threshold for 60x DW and raw, field 5.
-- [x] Panel c: column-plot with dot overlap between 60x raw and DW, by field.
+- [x] Panel a: FWHM distribution of dots un/filtered by field-based threshold for 60x DW and raw, field 5.
+- [x] Panel b: column-plot with dot overlap between 60x raw and DW, by field.
+- [x] Panel c: column-plot with unmatched dot between 20x.raw/dw and 60x-based reference, by field.
 - [x] Panel d: FWHM distribution of dots un/filtered by field-based threshold for 20x DW and raw, field 5.
 
 ### Supplementary Figure X2
