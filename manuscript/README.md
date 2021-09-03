@@ -37,6 +37,6 @@ Draft text: [here](https://docs.google.com/document/d/1ynNk3r_2EZ8Ckp6chrSjGuqsa
 ![Suppl.Fig.X3](figures/supp_fig_x3.jpg)
 
 - [x] Panel a: scatterplot of Value (Y) and SNR (X) for 20x.raw, cleaned, field 5. Density of Value on the side of Y panel.
-- [x] Panel b: column-plot with matched dot between 20x.raw/clean and 60x-based reference, by field.
-- [x] Panel c: column-plot with unmatched dot between 20x.raw/clean and 60x-based reference, by field.
-- [x] Panel d: FWHM distribution of dots un/filtered by field-based threshold for 20x raw, clean, field 5.
+- [x] Panel b: FWHM distribution of dots un/filtered by field-based threshold for 20x raw, clean, field 5.
+- [x] Panel c: column-plot with matched dot between 20x.raw/clean and 60x-based reference, by field.
+- [x] Panel d: column-plot with unmatched dot between 20x.raw/clean and 60x-based reference, by field.
