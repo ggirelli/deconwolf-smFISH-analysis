@@ -32,7 +32,7 @@ Draft text: [here](https://docs.google.com/document/d/1ynNk3r_2EZ8Ckp6chrSjGuqsa
 - [x] Panel c: column-plot with unmatched dot between 20x.raw/dw and 60x-based reference, by field.
 - [x] Panel d: FWHM distribution of dots un/filtered by field-based threshold for 20x DW and raw, field 5.
 
-### Supplementary Figure X2
+### Supplementary Figure X3
 
 ![Suppl.Fig.X3](figures/supp_fig_x3.jpg)
 
