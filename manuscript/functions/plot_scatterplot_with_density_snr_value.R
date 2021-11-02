@@ -3,6 +3,7 @@ require(data.table)
 require(ggforce)
 require(ggplot2)
 require(ggpubr)
+require(ggrastr)
 
 plot_scatterplot_with_density_snr_value = function(
     dots_data, nuclear_features, selected_magnification, selected_image_type,
@@ -19,11 +20,11 @@ plot_scatterplot_with_density_snr_value = function(
     ddata[threshold <= Value2, dot_type := "good"]
 
     p1 = ggplot(ddata[current_field_id == sid], aes(x=SNR2, y=Value2)) +
-        geom_point(aes(color=dot_type), size=.5, alpha=.5) +
+        ggrastr::rasterise(geom_point(aes(color=dot_type), size=.5, alpha=.5), dpi=300) +
         geom_hline(yintercept=threshold, color="#336600", linetype="dashed") +
-        scale_color_brewer(sprintf("[%03d] %s %s. Dot type",
+        scale_color_manual(sprintf("[%03d] %s %s. Dot type",
                                    current_field_id, selected_magnification, selected_image_type
-                                  ), palette="Set1") +
+                                  ), values=c("#AD1A18", "#005392")) +
         scale_x_log10("SNR",
                       breaks=10**snr_exp_breaks,
                       labels=as.expression(lapply(
