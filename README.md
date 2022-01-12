@@ -1,5 +1,11 @@
 # deconwolf-smFISH-analysis
 
+
+
+[![DOI](https://zenodo.org/badge/394983419.svg)](https://zenodo.org/badge/latestdoi/394983419)
+
+
+
 Tissue smFISH at different magnifications, either processed with `deconwolf` or not.
 
 ## Details
