@@ -8,6 +8,8 @@
 
 Tissue smFISH at different magnifications, either processed with `deconwolf` or not.
 
+NOTE: fields 001 and 005 are swapped between publication and data/plots from this repository.
+
 ## Details
 
 - Voxel size (ZYX)
